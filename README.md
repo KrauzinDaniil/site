@@ -1,0 +1,2 @@
+# site
+only static cut
