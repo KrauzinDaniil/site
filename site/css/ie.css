@@ -1,0 +1,6 @@
+*+html{overflow:auto;}
+
+
+/***************************/
+#search-form, ul.sf-menu>li, .block-1 a, a.button {behavior:url(js/PIE.htc);position:relative;}
+.prev, .next {behavior:url(js/PIE.htc);}
